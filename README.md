@@ -40,7 +40,7 @@ The goal of this sprint is to collaboratively design and develop a playable plat
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/platformer-game.git
+   git clone https://github.com/kalviumcommunity/github-workflow.git
    ```
 2. **Open `index.html`** in any modern browser (Chrome/Edge/Firefox).
 
